@@ -13,18 +13,24 @@ The app will take in orders from customers and deplete stock from the store's in
 ## HOW TO USE bamazon
 
 1. When you run the application, it will display all of the items available for sale:
-    ![Results](screenshots/pic1.PNG)
+
+    ![ScreenShot](https://github.com/arkevo/bamazon/raw/master/screenshots/pic1.png)
+
 
 2. Then it inquires:
     - Enter the ID of the product you would like to buy:
     - How many units would you like to buy?
 
 If there’s not enough in stock then you’ll get an “Sold Out!” message:
-    ![Results](screenshots/pic3.PNG)
+
+    ![ScreenShot](https://github.com/arkevo/bamazon/raw/master/screenshots/pic3.png)
+
+
 
 If there is enough in stock, the stock quantity is updated in the table and user is presented
 how much they owe:
-    ![Results](screenshots/pic1.PNG)
+
+    ![ScreenShot](https://github.com/arkevo/bamazon/raw/master/screenshots/pic1.png)
 
 
 ## TECHNOLOGIES USED
