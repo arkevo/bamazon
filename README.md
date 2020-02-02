@@ -22,15 +22,15 @@ The app will take in orders from customers and deplete stock from the store's in
     - How many units would you like to buy?
 
 If there’s not enough in stock then you’ll get an “Sold Out!” message:
-
     ![ScreenShot](https://github.com/arkevo/bamazon/raw/master/screenshots/pic3.png)
+    
 
 
 
 If there is enough in stock, the stock quantity is updated in the table and user is presented
 how much they owe:
-
     ![ScreenShot](https://github.com/arkevo/bamazon/raw/master/screenshots/pic1.png)
+
 
 
 ## TECHNOLOGIES USED
